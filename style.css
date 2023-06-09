@@ -1,0 +1,307 @@
+
+html{
+    scroll-behavior: smooth;
+}.navbar{
+    display: flex;
+    background-color: #726f6f;
+    align-items: center;
+    border-radius: 34px;
+    position: sticky;
+   top: 0;
+}
+.text{
+    color: white;
+    display: flex;
+    width: 77%;
+    justify-content: space-evenly;
+    color: #65ff1f;
+    cursor: pointer;
+}
+.navbar .btn{
+    margin-left: 7%;
+}
+.navbar .btn button{
+    border-radius: 24px;
+    cursor: pointer;
+}
+
+.navbar .logo img {
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 4px;
+    border: 2px solid white;
+    border-radius: 37px;
+}
+.home{
+    background-image: url(img/game.avif);
+}
+.home .heading{
+    color: yellow;
+    font-size: 66px;
+    margin-left: 33px;
+}
+.home .subheading{
+    color: red;
+    margin-left: 41px;
+    font-size: 22px;
+}
+.home .neeraj{
+    margin-left: 42px;
+    color: floralwhite;
+    width: 45%;
+}
+
+.nav:hover{
+    color: yellow;
+}
+.btn button:hover{
+    color: blue;
+}
+.home .b button{
+    border-radius: 20px;
+    margin-bottom: 39px;
+    margin-left: 37px;
+    margin-top: 9px;
+    padding: 5px;
+    width: 87px;;
+}
+.home .b button:hover{
+    color: yellowgreen;
+    cursor: pointer;
+}
+.about .know .game{
+    color: red;
+    font-size: 34px;
+}
+.about{
+    background-color: rgb(4 7 155 / 71%);
+}
+.about .Heading{
+    text-align: center;
+    font-size: 37px;
+    color: white;
+}
+.about .know{
+    color: yellow;
+    font-size: 22px;
+    margin-left: 42px;
+}
+.about .detail .a{
+    color: white;
+    width: 56%;
+    margin-left: 42px;
+}
+.detail{
+    padding: 4px;
+    position: relative;
+    bottom: 1px;
+    display: flex;
+}
+.lap img{
+    width: 52%;
+    margin-left: 25%;
+    margin-top: 4%;
+    border: 2px solid white;
+    border-radius: 40px;
+    height: 68%;
+}
+.about .a{
+    width: 110%;
+}
+.box .img img{
+    width: 224px;
+    border-radius: 31px;
+    margin-left: 12px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 67px;
+    width: 90%;
+}
+.box .content{
+    background-color: #04079b5e;
+    width: 54%;
+    margin-left: -12px;
+    padding: 27px;
+    height: 184px;
+    border-radius: 56px;
+}
+.head{
+    text-align: center;
+    font-size: 32px;
+    margin-top: 19px;
+    position: relative;
+    bottom: -35px;
+}
+.service{
+    background-color: #04079b47;
+    margin-top: -19px;
+}
+.box1 .img1 img{
+    width: 243px;
+    border-radius: 31px;
+    margin-left: 12px;
+    height: 149px;
+}
+.box2 .img2 img{
+    width: 243px;
+    border-radius: 31px;
+    margin-left: 27px;
+    height: 149px;  
+}
+.box1 .content1{
+    background-color: #04079b5e;
+    width: 54%;
+    margin-left: -12px;
+    padding: 27px;
+    height: 184px;
+    border-radius: 56px;
+}
+.box2 .content2{
+    background-color: #04079b5e;
+    width: 54%;
+    margin-left: 65px;
+    padding: 27px;
+    height: 184px;
+    border-radius: 56px;
+}
+.box1{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 67px;
+    width: 90%;
+}
+.box2{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 175px;
+    width: 90%;
+    position: relative;
+    bottom: 90px;
+}
+
+.conta {
+    display: flex;
+    margin-top: 6%;
+}
+
+.contact {
+    background-color: #88687d69;
+}
+
+.contact .h5 {
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    bottom: -21px;
+    color: white;
+}
+
+.contact .left {
+    margin: 0 auto;
+}
+
+.contact .right {
+    margin: 0 auto;
+}
+
+.contact .row {
+    display: flex;
+    margin-left: -128px;
+    margin-top: 20px;
+}
+.contact .row .icon{
+    margin: 4px;
+    font-size: 23px;
+}
+.contact .row .icon a{
+    padding: 25px;
+}
+.contact .sub5{
+    font-size: 25px;
+    margin-left: -98px;
+}
+.contact .right form{
+    padding: 62px;
+    margin-top: -50px;
+    margin-left: -62px;
+}
+.contact .right .textarea .text10{
+    margin-top: 12px;
+    height: 76px;
+    width: 374%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: -190px;
+    font-size: 17px;
+}
+.contact .right .input .text0{
+    margin-top: 11px;
+    height: 12px;
+    width: 372%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: -190px;
+    font-size: 15spx;
+border: none;
+}
+.contact .right .btn10s button{
+    margin-left: -144%;
+    margin-top: 11px;
+    padding: 3px;
+    background-color: #bd0bec;
+    height: 29px;
+    width: 83%;
+    border-radius: 5px;
+}
+.contact .right .btn10s button .send{
+    margin-left: -10px;
+}
+.contact .right .sub6{
+    font-size: 25px;
+    margin-left: -192px;
+}
+.footer{
+    background-color: black;
+    height: 49px;
+    text-align: center;
+}
+.footer .foot{
+    color: white;
+    font-size: 19px;
+    position: relative;
+    bottom: -13px;
+}
+.footer .foot a{
+    color: yellow;
+    text-decoration: none;
+}
+
+.contact i:hover{
+    animation: shake 1s;
+}
+@keyframes shake{
+10%{transform: rotate(20deg);}
+20%{transform: rotate(-20deg);}
+30%{transform: rotate(20deg);}
+40%{transform: rotate(-20deg);}
+}
+.contact .right .btn10s button .send:hover{
+    color: blue;
+}
+.text a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 19px;
+}
+.text a :hover{
+    color:blue;
+}
