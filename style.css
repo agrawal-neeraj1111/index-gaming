@@ -3,7 +3,7 @@ html{
     scroll-behavior: smooth;
 }.navbar{
     display: flex;
-    background-color: #726f6f;
+   background-image: url(img/sunset-1373171_1280.jpg);
     align-items: center;
     border-radius: 34px;
     position: sticky;

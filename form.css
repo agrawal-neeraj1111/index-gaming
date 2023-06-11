@@ -1,0 +1,89 @@
+@media(min-width:0) and (max-width:500px) {
+    .home .neeraj {
+        margin-left: 14px;
+        font-size: 16px;
+        width: 81%;
+    }
+
+    .home .subheading {
+        margin-left: 18px;
+    }
+
+    .home .heading {
+        margin-left: 20px
+    }
+    .home .b button{
+        margin-left: 12px;
+        border-radius: 7px;
+        padding: 5px;
+    }
+    .detail{
+        display: block;
+    }
+    .about .detail .a{
+        font-size: 16px;
+        width: 91%;
+        margin-left: 18px;
+    }
+    .about .know{
+        margin-left: 21px;
+        font-size: 26px;
+    }
+    .lap img{
+        width: 93%;
+        margin: 0 auto;
+        margin-left: 9px;
+        margin-top: 44px;
+        position: relative;
+        bottom: 33px;
+    }
+    .box{
+        display:block ;
+    }
+    .box1{
+        display: block;
+    }
+    .box2{
+        display: block;
+ 
+   }
+   .box .content   {
+    font-size: 15px;
+    width: 78%;
+    height: 100%;
+    margin: 0 auto;
+   }
+   .box1 .content1   {
+    font-size: 15px;
+    width: 78%;
+    height: 100%;
+    margin: 0 auto;
+   }
+   .box2 .content2   {
+    font-size: 15px;
+    width: 78%;
+    height: 100%;
+    margin: 0 auto;
+   }
+   .conta{
+    display: block;
+    margin-top: 63px;
+   }
+   .conta .left{
+    margin-left: 114px;
+   }
+   .conta .right .input{
+    width: 25%;
+    margin-left: 204px;
+   }
+   .conta .right .textarea .text10{
+    width: 94%;
+    margin-left: 13px;
+   }
+   .navbar .btn button{
+    margin-left: -32px;
+    width: 57px;
+    border-radius: 7px;
+    padding: 4px;
+}
+   }
