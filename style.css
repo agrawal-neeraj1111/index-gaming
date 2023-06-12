@@ -5,7 +5,7 @@ html{
     display: flex;
    background-image: url(img/sunset-1373171_1280.jpg);
     align-items: center;
-    border-radius: 34px;
+    border-radius: 4px;
     position: sticky;
    top: 0;
 }
@@ -39,6 +39,7 @@ html{
     color: yellow;
     font-size: 66px;
     margin-left: 33px;
+    text-shadow: 5px 5px 13px yellow;
 }
 .home .subheading{
     color: red;
@@ -80,6 +81,7 @@ html{
     text-align: center;
     font-size: 37px;
     color: white;
+    text-shadow: 5px 5px 13px white;
 }
 .about .know{
     color: yellow;
@@ -136,6 +138,7 @@ html{
     margin-top: 19px;
     position: relative;
     bottom: -35px;
+    text-shadow: 5px 5px 13px black;
 }
 .service{
     background-color: #04079b47;
@@ -203,6 +206,7 @@ html{
     position: relative;
     bottom: -21px;
     color: white;
+    text-shadow: 5px 5px 13px white;
 }
 
 .contact .left {
@@ -304,4 +308,7 @@ border: none;
 }
 .text a :hover{
     color:blue;
+}
+.box1 .img1 .src{
+    display: none;
 }
